@@ -1,13 +1,11 @@
-<h1 align="center">
-  Skill Set
-</h1>
+[![Header](./github-header-image.png)](#)
 
-<h3 align="center">
+<h4 align="center">
   Programming | 
   Administration | 
   Networking |
   PC Assembly
-</h3>
+</h4>
 
 ###### OS
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
