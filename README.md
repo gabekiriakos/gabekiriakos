@@ -1,13 +1,13 @@
 <h1 align="center">
-  Gabe Kiriakos
+  Skill Set
 </h1>
 
-<h5 align="center">
+<h3 align="center">
   Programming | 
   Administration | 
   Networking |
   PC Assembly
-</h5>
+</h3>
 
 ###### OS
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
