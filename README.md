@@ -1,10 +1,10 @@
-[![Header](./github-header-image.png)](#)
+[![Header](./banner.png)](#)
 
 <h5 align="center">
-  Programming | 
-  Administration | 
+  OOP | 
+  SysAdmin | 
   Networking |
-  PC Assembly
+  Hardware
 </h5>
 
 ###### OS
