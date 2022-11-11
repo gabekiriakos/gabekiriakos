@@ -1,19 +1,14 @@
 [![Header](./github-header-image.png)](#)
 
-<h4 align="center">
+<h5 align="center">
   Programming | 
   Administration | 
   Networking |
   PC Assembly
-</h4>
+</h5>
 
 ###### OS
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
-<a href="#">
-  <img 
-    align="right" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabekiriakos&layout=compact&theme=dark" />
-</a>
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
@@ -32,15 +27,7 @@
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](#) 
-<br>
-<a href="#">
-  <img 
-    align="right" 
-    src="https://github-readme-stats.vercel.app/api?username=gabekiriakos&layout=compact&show_icons=true&theme=dark"
-    height="45%"
-    width="45%" />
-</a>
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
@@ -62,3 +49,9 @@
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](#)
+
+---
+
+##### Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabekiriakos&layout=compact&theme=dark)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabekiriakos&layout=compact&show_icons=true&theme=dark)](#)
