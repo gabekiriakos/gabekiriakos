@@ -10,11 +10,12 @@
   I enjoy coding, both at work and in my free time.
 </h4>
 <h4 align="center">
-  Skills : [
-  OOP | 
-  SysAdmin | 
-  Networking |
-  Hardware ]
+  [
+    OOP | 
+    SysAdmin | 
+    Networking |
+    Hardware 
+  ]
 </h4>
 
 ---
