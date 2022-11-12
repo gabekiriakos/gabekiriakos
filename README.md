@@ -19,6 +19,9 @@
 
 ---
 
+#### Certs
+[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-red)](#)
+
 #### Tech Suite
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white)](#)
