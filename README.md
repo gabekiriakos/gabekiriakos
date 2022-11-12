@@ -1,24 +1,30 @@
 <div id="header" align="center">
-  <img src="./banner.jpeg" />
+  <kbd>
+    <a href="#">
+      <img src="./banner.jpeg" />
+    </a>
+  </kbd>
 </div>
 
-<h1 align="center">
-   Hi there! 🐧
-</h1>
 <h4 align="center">
-  My name is Gabe Kiriakos and I'm a DevSecOps Engineer. <br>
-  I enjoy coding, both at work and in my free time.
-</h4>
-<h4 align="center">
-  [
-    OOP | 
-    SysAdmin | 
-    Networking |
-    Hardware 
-  ]
+  <kbd>
+    [
+      OOP | 
+      SysAdmin | 
+      Networking |
+      Hardware 
+    ]
+  </kbd>
 </h4>
 
----
+<h1 align="center">
+  Hi there! 🐧
+</h1>
+
+<h4 align="center">
+  My name is Gabe Kiriakos and I'm a DevSecOps Engineer.
+  I enjoy coding, both at work and in my free time.
+</h4>
 
 #### Certs
 [![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-red)](#)
@@ -56,8 +62,21 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](#)
 
----
-
 #### Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabekiriakos&layout=compact&theme=dark)](#)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabekiriakos&layout=compact&show_icons=true&theme=dark)](#)
+<div align="center">
+  <tr>
+    <td>
+      <kbd>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabekiriakos&layout=compact&theme=dark" />
+        </a>
+      </kbd>
+    </td>
+    <td>
+      <kbd>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api?username=gabekiriakos&layout=compact&show_icons=true&theme=dark" />
+        </a>
+      </kbd>
+    </td>
+</div>
