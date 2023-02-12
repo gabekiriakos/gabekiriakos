@@ -9,7 +9,7 @@
 <div align="center">
   <kbd>
     [
-      OOP | 
+      Full Stack | 
       SysAdmin | 
       Networking |
       Hardware 
